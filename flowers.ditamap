@@ -42,6 +42,7 @@
       keys="flowers.perennial" print="yes"/>
     <topicref navtitle="Panicle" href="concepts/glossaryPanicle.dita"
       keys="flowers.panicle" print="yes"/>
+    <topicref href="images/Chrysanthemums.jpg" format="jpg" keys="IMAGE"/> 
   </topichead>
   <topicref href="topics/copyright.dita"/>
 </map>
